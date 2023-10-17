@@ -34,6 +34,9 @@ public class FireworkHandler {
 	
 	public static void spawnRocket(Level world, Vec3 pos, String skill/*, @Nullable WorldText explosionText*/)
 	{
+		if(true) {
+			return;
+		}
 		CompoundTag nbt = new CompoundTag();
 		CompoundTag fw = new CompoundTag();
 		ListTag explosion = new ListTag();
