@@ -1,5 +1,5 @@
 # Project-MMO-2.0
-A continuation of Harmony's Project MMO project
+A continuation of Harmony's Project MMO project to disable fireworks in level-ups since they may destroy blocks and so on.
 <hr>
 For information on how to use the mod, please see the wiki in this repo.
 <hr>
